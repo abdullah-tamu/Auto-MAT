@@ -10,6 +10,7 @@ Also, please install opencv
 Downlowd our the FFHQ pretrained model and place it in the main project directory using this link:
 [https://drive.google.com/file/d/1F4cCSnKyv2CwShh5R9wqvlQ9ccPsMdo7/view?usp=sharing
 ](https://drive.google.com/file/d/1D3Q5fdNjWCeLr76bkhBpwmw9XRcvp_Kb/view?usp=drive_link)```
+
 python AutoMAT.py --network pretrained/FFHQ_512.pkl --dpath ./examples --mpath masks/mask.png```
 # Citation
 ```
