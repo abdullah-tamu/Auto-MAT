@@ -2,7 +2,7 @@
 Automatic mask estimation method for image inpainting
 # Requirements
 Same requirements as Mask Aware Transformors (MAT). Please refer to 
-[https://github.com/NVlabs/stylegan3 
+[
 ](https://github.com/fenglinglwb/MAT) for the requrements.
 Also, please install opencv
 
