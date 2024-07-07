@@ -11,7 +11,7 @@ Downlowd our the FFHQ pretrained model and place it in the main project director
 [https://drive.google.com/file/d/1D3Q5fdNjWCeLr76bkhBpwmw9XRcvp_Kb/view?usp=drive_link
 ](https://drive.google.com/file/d/1D3Q5fdNjWCeLr76bkhBpwmw9XRcvp_Kb/view?usp=drive_link)```
 ```
-python AutoMAT.py --network pretrained/FFHQ_512.pkl --dpath ./examples --mpath masks/mask.png
+python AutoMAT_v1.0.py --network pretrained/FFHQ_512.pkl --dpath ./examples --mpath masks/mask.png
 # Citation
 ```
 If you find this implementation helpful in your research, please also consider citing:
